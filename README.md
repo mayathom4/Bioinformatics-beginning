@@ -7,11 +7,13 @@ This project contains a Python script designed to automate the basic analysis of
 - **Nucleotide Counting:** Automatically counts the occurrences of A, C, G, and T in a DNA string.
 - **GC Content Calculation:** Calculates the GC percentage, a key metric for DNA stability and gene identification.
 - **Automated Formatting:** Outputs results with scientific precision (2 decimal places).
-
+- **DNA to RNA Transcription:** Efficiently converts genomic DNA into RNA by replacing Thymine with Uracil.
+  
 ## How to Use
 1. Ensure you have **Python 3** installed.
 2. Run the script using `python dna_counter.py`.
 3. View the base counts and GC percentage in the terminal.
+4. Run the transcription script using 'python dna_to_rna.py'.
 
 ## Goals
 My goal is to leverage my background in **Molecular Genetics** with computational tools to solve complex biological data problems.
