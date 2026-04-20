@@ -8,7 +8,8 @@ This project contains a Python script designed to automate the basic analysis of
 - **GC Content Calculation:** Calculates the GC percentage, a key metric for DNA stability and gene identification.
 - **Automated Formatting:** Outputs results with scientific precision (2 decimal places).
 - **DNA to RNA Transcription:** Efficiently converts genomic DNA into RNA by replacing Thymine with Uracil.
-  
+- **FASTA File Reader:** Processes standard genomic file formats, extracting raw sequences while filtering out metadata headers
+    
 ## How to Use
 1. Ensure you have **Python 3** installed.
 2. Run the script using `python dna_counter.py`.
